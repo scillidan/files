@@ -1,0 +1,15 @@
+{
+  "title": "────── ａｐｕｓ ──────",
+  "graph": [
+    [3, 3, "✦"],
+    [9, 4, "✦"],
+    [6, 5, "✦"],
+    [18, 6, "✦"]
+  ],
+  "name": "Apus",
+  "quadrant": "SQ3",
+  "right_ascension": "13h 51m 07.5441s to 18h 27m 27.8395s",
+  "declination": "−67.4800797° to −83.1200714°",
+  "area": "206 sq.deg. (67th)",
+  "main_stars": "4"
+}

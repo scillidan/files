@@ -1,0 +1,15 @@
+{
+  "title": "────── ｃｒｕｘ ──────",
+  "graph": [
+    [9, 1, "✦"],
+    [15, 3, "✦"],
+    [4, 4, "✦"],
+    [12, 8, "✦"]
+  ],
+  "name": "Crux",
+  "quadrant": "SQ3",
+  "right_ascension": "12.5h",
+  "declination": "−60°",
+  "area": "68 sq.deg. (88th)",
+  "main_stars": "4"
+}

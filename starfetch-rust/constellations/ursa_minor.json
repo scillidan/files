@@ -1,0 +1,18 @@
+{
+  "title": " ｕｒｓａ  ｍｉｎｏｒ ",
+  "graph": [
+    [12, 1, "✦"],
+    [10, 2, "✦"],
+    [9, 4, "✦"],
+    [10, 6, "✦"],
+    [7, 7, "✦"],
+    [13, 8, "✦"],
+    [10, 9, "✦"]
+  ],
+  "name": "Ursa Minor",
+  "quadrant": "NQ3",
+  "right_ascension": "08h 41.4m to 22h 54.0m",
+  "declination": "+65.40° to +90°",
+  "area": "256 sq.deg. (56th)",
+  "main_stars": "7"
+}
